@@ -1,0 +1,4 @@
+#Tue Feb 09 09:00:43 GFT 2021
+base.0=C\:\\Users\\ediberto\\Documents\\flutter projets\\my_nutri\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
