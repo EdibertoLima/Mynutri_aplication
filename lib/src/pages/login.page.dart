@@ -7,7 +7,7 @@ class LoginPage extends StatelessWidget {
     return Scaffold(
       body: Container(
         padding: EdgeInsets.only(top: 60, left: 40, right: 40),
-        //color: Colors.white,
+        //color: Colors.whitess,
         child: ListView(
           children: <Widget>[
             SizedBox(
